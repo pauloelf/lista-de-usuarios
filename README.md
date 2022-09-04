@@ -4,9 +4,9 @@ USANDO CONSOLE ATÉ ENTÃO
 "usuarios" é a lista dos usuarios, basta usar no console para verificar.
 
 ****************************************************************************
-Buscar um usuário por ID, NOME ou IDADE; -----BUSCAR USUÁRIO ||
-Cadastrar um novo usuário utilizado NOME e IDADE; -----CADASTRAR USUÁRIO ||
-Remover um usuário utilizando NOME e IDADE; -----REMOVER USUÁRIO ||
+Buscar um usuário por ID, NOME ou IDADE; ||
+Cadastrar um novo usuário utilizado NOME e IDADE; ||
+Remover um usuário utilizando NOME e IDADE; ||
 ****************************************************************************
 
 OBS:
