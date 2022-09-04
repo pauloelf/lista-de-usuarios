@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  display: grid;
+  justify-content: left;
+  background: #326093;
+  color: white;
+}
+
+input{
+  background: black;
+  color: white;
+}
